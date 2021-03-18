@@ -1,4 +1,4 @@
-### Hi there my name is Rafael Nacle👋
+### Hi there! My name is Rafael 👋
 
 - 🔭 I’m currently working on Getting Graduated!
 - 🌱 I’m currently learning JavaScript, React, Vue.js
