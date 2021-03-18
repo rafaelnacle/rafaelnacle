@@ -1,4 +1,4 @@
-### Hi there! My name is Rafael 👋
+### Hi there! 👋
 
 - 🔭 I’m currently working on Getting Graduated!
 - 🌱 I’m currently learning JavaScript, React, Vue.js
