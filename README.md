@@ -3,8 +3,8 @@
 <h3>How to reach me:</h3>
 <ul>
   <li>📫 <b>Email:</b> rafaelnacle@gmail.com</li>
-  <li>🛅 <b>LinkedIn:</b> linkedin.com/in/rafael-nacle/</li>
-  <li>🐦 <b>Twitter:</b> twitter.com/rafanacle</li>
+  <li>🛅 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-nacle/">linkedin.com/in/rafael-nacle/</a></li>
+  <li>🐦 <b>Twitter:</b> <a href="https://twitter.com/rafanacle">twitter.com/rafanacle</a></li>
 </ul>
 
 <h3>Technologies I use/work:</h3>
