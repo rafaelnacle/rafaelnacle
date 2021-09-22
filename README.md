@@ -30,5 +30,5 @@
   <li>📊 SQL</li>
 </ul>
 
-![snake gif](https://github.com/rafaelnacle/rafaelnacle/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rafaelnacle/rafaelnacle/blob/output/github-contribution-grid-snake.svg)
 
