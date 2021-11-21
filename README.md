@@ -12,6 +12,7 @@
   <li>🦴 HTML</li>
   <li>🦋 CSS</li>
   <li>🧠 Javascript</li>
+  <li>🧶 NodeJS</li>
   <li>🐱‍👤 Git</li>
 </ul>
 
@@ -19,16 +20,11 @@
 <ul>
   <li>🧪 Figma</li>
   <li>📸 Photoshop</li>
+  <li>🐲 Illustrator </li>
   <li>🔊 Ableton Live</li>
 </ul>
 
-<h3>Other Techs I've Worked/Studied:</h3>
-<ul>
-  <li>🐱‍🚀 Golang</li>
-  <li>🦚 WebAssembly</li>
-  <li>☕ Java</li>
-  <li>📊 SQL</li>
-</ul>
+
 
 ![snake gif](https://github.com/rafaelnacle/rafaelnacle/blob/output/github-contribution-grid-snake.svg)
 
