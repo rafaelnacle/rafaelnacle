@@ -11,7 +11,8 @@
   <li>🦴 HTML</li>
   <li>🦋 CSS</li>
   <li>🧠 Javascript</li>
-  <li>🧶 NodeJS</li>
+  <li> 🐲 C# </li>
+  <li> 🎮 Unity </li>
   <li>🐱‍👤 Git</li>
 </ul>
 
