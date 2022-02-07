@@ -6,14 +6,15 @@
   <li>🐦 <b>Twitter:</b> <a href="https://twitter.com/rafanacle" target="_blank">twitter.com/rafanacle</a></li>
 </ul>
 
-<h3>Technologies I use/work:</h3>
+<h3>Technologies I'm studying :</h3>
 <ul>
-  <li>🦴 HTML</li>
-  <li>🦋 CSS</li>
-  <li>🧠 Javascript</li>
+  <li> 🦴 HTML</li>
+  <li> 🦋 CSS</li>
+  <li> 🧠 Javascript</li>
+  <li> 💎 Ruby </li>
   <li> 🐲 C# </li>
   <li> 🎮 Unity </li>
-  <li>🐱‍👤 Git</li>
+  <li> 🐱‍👤 Git</li>
 </ul>
 
 <h3>Other Tools I know:</h3>
