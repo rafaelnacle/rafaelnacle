@@ -14,7 +14,7 @@
   <li> 💎 Ruby </li>
   <li> 🐲 C# </li>
   <li> 🎮 Unity </li>
-  <li> 🐱‍👤 Git</li>
+  <li> 🐱 Git</li>
 </ul>
 
 <h3>Other Tools I know:</h3>
