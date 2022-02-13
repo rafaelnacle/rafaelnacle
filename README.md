@@ -1,4 +1,4 @@
-<h2>Hello there! 👋, my name is Rafael Nacle and I'm a Front-End Developer!🖤</h2>
+<h2>Hello there!</h2>
 
 <h3>How to reach me:</h3>
 <ul>
@@ -11,7 +11,6 @@
   <li> 🦴 HTML</li>
   <li> 🦋 CSS</li>
   <li> 🧠 Javascript</li>
-  <li> 💎 Ruby </li>
   <li> 🐲 C# </li>
   <li> 🎮 Unity </li>
   <li> 🐱 Git</li>
@@ -21,11 +20,8 @@
 <ul>
   <li>🧪 Figma</li>
   <li>📸 Photoshop</li>
-  <li>🐲 Illustrator </li>
   <li>🔊 Ableton Live</li>
 </ul>
-
-
 
 ![snake gif](https://github.com/rafaelnacle/rafaelnacle/blob/output/github-contribution-grid-snake.svg)
 
