@@ -11,12 +11,10 @@
   <li> 🦴 HTML</li>
   <li> 🦋 CSS</li>
   <li> 🧠 Javascript</li>
-  <li> 🐲 C# </li>
-  <li> 🎮 Unity </li>
-  <li> 🐱 Git</li>
+  <li> 🎮 Golang </li>
 </ul>
 
-<h3>Other Tools I know:</h3>
+<h3>Other tools I had some time with:</h3>
 <ul>
   <li>🧪 Figma</li>
   <li>📸 Photoshop</li>
