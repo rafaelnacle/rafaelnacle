@@ -14,7 +14,7 @@
   <li> 🎮 Golang </li>
 </ul>
 
-<h3>Other tools I had some time with:</h3>
+<h3>Other tools I've spent some time with:</h3>
 <ul>
   <li>🧪 Figma</li>
   <li>📸 Photoshop</li>
