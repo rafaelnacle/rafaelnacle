@@ -30,7 +30,7 @@
 
 
 <hr/>
-<div align="center">
+<div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&layout=compact&langs_count=16">
 </div>
