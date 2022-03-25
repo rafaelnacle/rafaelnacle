@@ -1,6 +1,3 @@
-<div align="center">
-  <img align="center" alt="Ashley Mcnamara Gopher Artwork" src="https://github.com/ashleymcnamara/gophers/blob/master/gopher_snacks.png">
-</div>
 <h1 align="center">Hello there, I'm Rafael Nacle!</h1>
 
 <div style="display: inline_block" align="center">
@@ -38,4 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&layout=compact&langs_count=16">
 </div>
 
+<div align="center">
+  <img align="center" alt="Ashley Mcnamara Gopher Artwork" src="https://github.com/ashleymcnamara/gophers/blob/master/gopher_snacks.png">
+</div>
 
