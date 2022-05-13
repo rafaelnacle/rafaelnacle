@@ -20,22 +20,25 @@
 
 
 <div style="display: inline_block" align="center">
-  <h3>Techs I'm using at work:</h3>
+  <h3>Techs I'm learning:</h3>
    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 </div>
 
 
 <hr/>
 <div align="center" style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16">
+  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+</div>
+
+<div align="center" style="display: flex; flex-direction: row">
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16">
 </div>
 
 <div align="center">
