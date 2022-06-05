@@ -33,11 +33,9 @@
 
 
 <hr/>
-<div align="center" style="display: inline_block">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-</div>
-
 <div align="center" style="display: flex; flex-direction: row">
+  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16">
 </div>
 
