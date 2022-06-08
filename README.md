@@ -5,7 +5,7 @@
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
 
-<div style="display: flex; align: center;">
+<div style="display: flex;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnacle&theme=tokyonight">
 </div>
