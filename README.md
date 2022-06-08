@@ -18,6 +18,10 @@
    <a href="mailto:rafaelnacle@gmail.com"><p><b>rafaelnacle@gmail.com</b></p></a>
 </div>
 
+<div style="margin-top: 20px" align="center">
+ 
+   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16&card_width=500">
+</div>
 
 <div style="display: inline_block" align="center">
   <h3>Techs I'm learning:</h3>
@@ -31,12 +35,10 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 </div>
 
-
 <hr/>
-<div align="center" style="display: flex; flex-direction: row">
+<div align="center" style="display: flex">
   <img height="auto" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnacle&theme=tokyonight"></img>
 </div>
 
 <div align="center">
