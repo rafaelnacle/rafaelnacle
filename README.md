@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
-
+<br/>
 
 <div align="center">
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
