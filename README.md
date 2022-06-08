@@ -1,13 +1,15 @@
 <h1 align="center">Hello there, I'm Rafael Nacle!</h1>
 
 <hr/>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&theme=tokyonight&langs_count=7&layout=compact">
-</div>
+
 <div align="center">
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
+<div align="center" style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=compact&theme=tokyonight&langs_count=7">
+</div>
+
 <br/>
 
 <hr/>
