@@ -7,11 +7,12 @@
 <br/>
 <div style="display: flex;" align="center">
   <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnacle&theme=tokyonight">
+  
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16&layout=compact">
 </div>
 <hr/>
 <div align="center">
-   <img height="auto" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&show_icons=true&theme=tokyonight&langs_count=16&card_width=500">
+   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnacle&theme=tokyonight">
 </div>
 <hr/>
 <div style="display: inline_block" align="center">
