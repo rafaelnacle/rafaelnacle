@@ -33,10 +33,4 @@
   <a href="https://www.linkedin.com/in/rafael-nacle/">
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
   </a>
-  <a href="https://twitter.com/rafanacle">
-    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
-  </a>
-  <a href="https://www.instagram.com/rafaelnacle/">
-    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">
-  </a>
 </div>
