@@ -12,7 +12,7 @@
 
 </div>
 
-<div align="center" style="display: inline">
+<div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnacle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=compact&theme=tokyonight&langs_count=7">
