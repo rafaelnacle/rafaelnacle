@@ -9,6 +9,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=compact&theme=tokyonight&langs_count=7">
 </div>
 
+
+<div id="badges"  align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafaelnacle&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+
+</div>
+
 <br/>
 
 <hr/>
@@ -25,8 +32,8 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
+
 
 <div style="display: inline_block;" align="center">
   <h3>Social Media:</h3>
