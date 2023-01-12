@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
-<p align="center">At the moment I'm studying my way to be a backend developer, I was learning a lot of frontend back in the days and decided to focus on C# as my main language, but I also have some knowledge in Javascript</p>
+<p align="center">At the moment I'm studying my way to be a backend developer, I was learning a lot of frontend back in the days and decided to focus on C# as my main language because I had some good moments with it, and I think there is a lot of people out there to help me grow. The Microsoft documentation for C# and its components are really good aswell. I'm being guided by Balta.io career path wich is an amazing teacher, everyday I learn a lot how C# can be good for the industry.</p>
 <br/>
 
 <div align="center">
