@@ -1,10 +1,11 @@
-
+<h1 align="center">Hello there 👋, I'm Rafael</h1>
+<p align="center">At the moment I'm studying my way to be a backend developer, I was learning a lot of frontend back in the days and decided to focus on C# as my main language, but I also have some knowledge in Javascript</p>
 <br/>
 
 <div align="center">
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
-<h1 align="center">Hello there 👋, I'm Rafael</h1>
+
 <h2>Tools I'm currently learning: </h2>
 <ul>
   <li>C#/.NET</li>
