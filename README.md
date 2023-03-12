@@ -6,13 +6,6 @@
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 </div>
 
-<h2>Tools I'm currently learning: </h2>
-<ul>
-  <li>React</li>
-  <li>Node.js</li>
-  <li>Golang</li>
-</ul>
-
 <br/>
 
 <hr/>
