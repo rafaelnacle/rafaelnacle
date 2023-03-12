@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
-<p align="center">At the moment I'm studying my way to be a backend developer, I was learning a lot of frontend back in the days and decided to focus on C# as my main language because I had some good moments with it, and I think there is a lot of people out there to help me grow. The Microsoft documentation for C# and its components are really good aswell. I'm being guided by Balta.io career path wich is an amazing teacher, everyday I learn a lot how C# can be good for the industry.</p>
+<p align="center">Welcome traveler, shall we share some knowledge together ?</p>
 <br/>
 
 <div align="center">
@@ -8,13 +8,8 @@
 
 <h2>Tools I'm currently learning: </h2>
 <ul>
-  <li>C#/.NET</li>
-  <li>Dapper</li>
-  <li>SQL Server</li>
-  <li>Docker</li>
-  <li>Entity Framework</li>
-  <li>Docker</li>
-  <li>ASP.NET 6</li>
+  <li>React</li>
+  <li>Golang</li>
 </ul>
 
 <br/>
