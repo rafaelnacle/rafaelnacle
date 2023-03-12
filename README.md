@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
-<p align="center">Welcome traveler, shall we share some knowledge together ?</p>
+<p align="center">Welcome traveler, shall we share some knowledge to each other?</p>
 <br/>
 
 <div align="center">
@@ -9,6 +9,7 @@
 <h2>Tools I'm currently learning: </h2>
 <ul>
   <li>React</li>
+  <li>Node.js</li>
   <li>Golang</li>
 </ul>
 
