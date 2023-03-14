@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
-<p align="center">Welcome traveler, shall we share some knowledge to each other?</p>
+<h2 align="center">Welcome traveler, shall we share some knowledge to each other?</h2>
+<p align="center">I'm a programming student that loves to discover new things, I'm currently working my way to learn Flutter/Dart and build some apps for myself and get a job on this field, I also love to study Golang from time to time and Javascript, HTML and CSS at times when I need them.</p>
 <br/>
 
 <div align="center">
