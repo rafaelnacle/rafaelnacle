@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
 <h2 align="center">Welcome traveler, shall we share some knowledge to each other?</h2>
-<p align="center">I'm a programming student that loves to discover new things, I'm currently working my way to learn more about functional programming with Elixir!
+<p align="center">Adventurous programmer on a quest to master functional programming with Elixir. Greetings, fellow traveler! I am on a journey to hone my skills in Elixir and explore the realm of functional programming. My name is Rafael, and I have already completed some projects using Javascript, Python, and Golang. I have a particular fondness for C programming and plan to continue studying this language while also aspiring to tackle C++ in the future. I have an associate degree in Analysys and Software Development, I focused more on the development part and plan to extend my knowledge as I learn even more!
+</p>
 <br/>
 <div align="center">
   <img alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
