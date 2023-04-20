@@ -12,6 +12,11 @@
    <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnacle&theme=tokyonight">
 </div>
 <hr/>
+<div align="center">
+   <img height="auto" width:"100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&theme=tokyonight">
+</div>
+
+<hr/>
 
 <div style="display: inline_block;" align="center">
   <h3>Social Media:</h3>
