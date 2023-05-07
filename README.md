@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
 <h2 align="center">Welcome traveler, shall we share some knowledge to each other?</h2>
-<p align="center">Greetings, fellow traveler! I am on a journey to hone my skills in programming and explore this awesome realm. My name is Rafael, and I have already completed some projects using Javascript, Python, and Golang. I have an associate degree in Analysys and Software Development, I focused more on the development part and plan to extend my knowledge as I learn even more!
+<p align="center">Greetings, fellow traveler! I am on a journey to hone my skills in programming and explore this awesome realm. My name is Rafael, I have an associate degree in Analysys and Software Development.
 </p>
 <br/>
 <div align="center">
