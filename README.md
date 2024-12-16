@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Rafael</h1>
 <h2 align="center">Welcome traveler, shall we share some knowledge to each other?</h2>
-<p align="center">I'm a front-end developer (most of the time) looking to sharpen my skills and share my projects, feel free to send me a message or add me on LinkedIn. I hope your coding journey can be pleasant and filled with knowledge!</p>
+<p align="center">I'm a developer looking to sharpen my skills and share my projects, feel free to send me a message or add me on LinkedIn. I hope your coding journey can be pleasant and filled with knowledge!</p>
 
 <br/>
 <div align="center">
