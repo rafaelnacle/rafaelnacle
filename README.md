@@ -20,7 +20,3 @@
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
   </a>
 </div>
-
-<div style="display: inline_block;" align="center">
-  <a href="https://app.daily.dev/rafaelnacle"><img src="https://api.daily.dev/devcards/v2/FpmwyIdH35W7DRrHPzpBI.png?type=wide&r=tnv" width="652" alt="Rafael Nacle's Dev Card"/></a>
-</div>
