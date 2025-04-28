@@ -13,9 +13,8 @@
 <p>🍰 Age: 32</p>
 <p>🚩 Location: Cianorte - Paraná, Brazil</p>
 <p>💻 Stack: Python, C++, Javascript (Maybe not much anymore 😶‍🌫️)</p>
-<p>📘 Currently Learning: Python, C/C++ and Cybersec </p>
+<p>📘 Currently Learning: Python, C/C++</p>
 <p>🎓 Degree: Associate degree in Analysis and Software Development - UMFG</p>
-<p>⭐ Want to achieve: Security+, CEH certifications </p>
 
 <h2>Random stuff about me</h2>
 <p>🐈 I have 3 cats</p>
