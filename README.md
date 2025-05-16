@@ -12,7 +12,6 @@
 <h2>About me</h2>
 <p>🍰 Age: 32</p>
 <p>🚩 Location: Cianorte - Paraná, Brazil</p>
-<p>💻 Stack: Python, C++, Javascript (Maybe not much anymore 😶‍🌫️)</p>
 <p>📘 Currently Learning: C/C++</p>
 <p>🎓 Degree: Associate degree in Analysis and Software Development - UMFG</p>
 
