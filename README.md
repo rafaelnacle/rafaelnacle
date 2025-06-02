@@ -12,7 +12,7 @@
 <h2>About me</h2>
 <p>🍰 Age: 32</p>
 <p>🚩 Location: Cianorte - Paraná, Brazil</p>
-<p>📘 Currently Learning: C/C++</p>
+<p>📘 Currently Learning: C++ and Rust</p>
 <p>🎓 Degree: Associate degree in Analysis and Software Development - UMFG</p>
 
 <h2>Random stuff about me</h2>
