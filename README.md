@@ -22,7 +22,7 @@
 <p>🐈 I am keeper of three feline familiars</p>
 <p>🎸 I summon melodies through instruments, though my magic rests for now</p>
 <p>👽 Initiated into the arts of coding in 2019, fledgling once, adept now</p>
-<p>🧒 A new life stirs within — an heir in the mortal coil (the cradle awaits)</p>
+<p>👧🏻 A new life stirs within — an heir in the mortal coil (the cradle awaits)</p>
 
 <hr>
 
