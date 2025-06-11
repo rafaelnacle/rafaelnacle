@@ -27,7 +27,7 @@
 <hr>
 
 <div>
-  <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&theme=tokyonight&hide=html,css,scss,makefile" />
+  <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&theme=tokyonight&hide=html,css,scss,makefile,CMake" />
 </div>
 
 <hr/>
