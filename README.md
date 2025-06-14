@@ -1,8 +1,8 @@
 <h1>🧭 Greetings, Fellow Explorer — I'm Rafael</h1>
 <h2>Traveler, shall we embark on the grand quest of knowledge together?</h2>
 
-<p>In this vast landscape of code and logic, I am a humble craftsman of software — building tools and shaping ideas into projects.  
-Reach out through the ether — LinkedIn or message — to share your knowledge or to journey alongside.</p>
+<p>In this vast landscape of code and logic, I am a humble craftsman of software, building tools and shaping ideas into projects.  
+Reach out through LinkedIn or message, to share your knowledge or to journey alongside.</p>
 
 <p>May your path through the realms of programming be insightful and rewarding. Scroll onward, and you shall glimpse an image and some truths about me.</p>
 
