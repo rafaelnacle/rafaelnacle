@@ -1,28 +1,29 @@
-<h1>🔮 Greetings, Seeker of the Arcane — I'm Rafael</h1>
+<h1>🧭 Greetings, Fellow Explorer — I'm Rafael</h1>
 <h2>Traveler, shall we embark on the grand quest of knowledge together?</h2>
 
-<p>In this realm of code and logic, I am a humble alchemist of software, forging skills and transmuting ideas into projects. Reach out through the ether — LinkedIn or message — to share your wisdom or to quest alongside.</p>
+<p>In this vast landscape of code and logic, I am a humble craftsman of software — building tools and shaping ideas into projects.  
+Reach out through the ether — LinkedIn or message — to share your knowledge or to journey alongside.</p>
 
-<p>May your journey through the cryptic runes of programming be enlightening and fruitful. Scroll onward, and you shall glimpse an enchanted image and secrets of my mortal self.</p>
+<p>May your path through the realms of programming be insightful and rewarding. Scroll onward, and you shall glimpse an image and some truths about me.</p>
 
 <br/>
 <div align="center">
-  <img alt="Alchemical animation" src="https://i.pinimg.com/originals/86/48/e6/8648e6c28cac5c777f42ceff82a4f150.gif" />
+  <img alt="Resting around the fire" src="https://i.pinimg.com/originals/4f/54/ac/4f54ac7e22eeca9cc89f14c99f783425.gif" />
 </div>
 
 <hr/>
 
-<h2>About the Mortal Behind the Magic</h2>
-<p>🕯️ Age: 32 cycles</p>
-<p>📍 Sanctum: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Deciphering: The elemental runes of C++ and Elixir ⚗️🧪</p>
-<p>🎓 Academic Grimoire: Associate degree in Analysis and Software Development - UMFG</p>
+<h2>About the Human Behind the Craft</h2>
+<p>🕯️ Age: 32 years experienced</p>
+<p>📍 Location: Cianorte - Paraná, Brazil</p>
+<p>📜 Currently Learning: The languages and tools of C++ and Rust 🦀</p>
+<p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 
-<h2>Whispers from the Familiar Realm</h2>
-<p>🐈 I am keeper of three feline familiars</p>
-<p>🎸 I summon melodies through instruments, though my magic rests for now</p>
-<p>👽 Initiated into the arts of coding in 2019, fledgling once, adept now</p>
-<p>👧🏻 A new life stirs within — an heir in the mortal coil (the cradle awaits)</p>
+<h2>Other Paths I Walk</h2>
+<p>🐈 Companion of three cats</p>
+<p>🎸 Sometimes making music, though my craft rests for now</p>
+<p>💻 Programming since 2019: From curious beginner to steady learner</p>
+<p>👧🏻 Soon welcoming a new journey: Becoming a parent</p>
 
 <hr>
 
@@ -33,7 +34,7 @@
 <hr/>
 
 <div style="display: inline_block;">
-  <h3>📜 Seek me on the Web of LinkedIn:</h3>
+  <h3>📜 Connect with me on LinkedIn:</h3>
   <a href="https://www.linkedin.com/in/rafael-nacle/">
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
   </a>
