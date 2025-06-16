@@ -1,4 +1,4 @@
-<h1>🧭 Greetings, Fellow Explorer — I'm Rafael</h1>
+<h1>🧭 Greetings, Fellow Explorer! I'm Rafael</h1>
 <h2>Traveler, shall we embark on the grand quest of knowledge together?</h2>
 
 <p>In this vast landscape of code and logic, I am a humble craftsman of software, building tools and shaping ideas into projects.  
