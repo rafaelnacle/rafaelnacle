@@ -16,7 +16,7 @@ Reach out through LinkedIn or message, to share your knowledge or to journey alo
 <h2>About the Human Behind the Craft</h2>
 <p>🕯️ Age: 32 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Learning: The languages and tools of C++ and Rust 🦀</p>
+<p>📜 Currently Learning: The languages and tools of C++, Go and Rust 🦀</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 
 <h2>Other Paths I Walk</h2>
