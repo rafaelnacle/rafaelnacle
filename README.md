@@ -36,7 +36,7 @@ Reach out through LinkedIn or message, to share your knowledge or to journey alo
 
 <div style="display: inline_block;">
   <h3>📜 Connect with me on LinkedIn:</h3>
-  <a href="https://www.linkedin.com/in/rafael-nacle/">
+  <a href="https://www.linkedin.com/in/rafaelnacle/">
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
   </a>
 </div>
