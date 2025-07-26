@@ -16,7 +16,7 @@ Reach out through LinkedIn or message, to share your knowledge or to journey alo
 <h2>About the Human Behind the Craft</h2>
 <p>🕯️ Age: 32 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Stack: The languages and tools of JavaScript/React/Node/Ts and C++</p>
+<p>📜 Currently Discovering: The languages and tools of JavaScript/React/Node/Ts and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 <p>⚙️ Studies: Enrolled in a Bachelor's Degree of Software Engineering - Gran University</p>
 
