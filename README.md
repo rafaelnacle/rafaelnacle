@@ -22,8 +22,7 @@
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
 <p>📜 Currently Discovering: <b>Elixir/Phoenix/LiveView</b> and C++</p>
-<p>⚙️ Studies: Enrolled in a Bachelor's Degree of Software Engineering - Gran University</p>
-<p>🎓 Past Studies: Associate degree in Analysis and Software Development - UMFG</p>
+<p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 <p>🧪 Belief: Code should be concurrent, fault-tolerant, and beautiful</p>
 
 <h2>Other Paths I Walk</h2>
