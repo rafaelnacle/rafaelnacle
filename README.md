@@ -1,4 +1,4 @@
-<h1>⚗ Greetings, Fellow Alchemist! I'm Rafael</h1>
+<h1>🧪 Greetings, Fellow Alchemist! I'm Rafael</h1>
 <h2>Shall we transmute ideas into living code with Elixir?</h2>
 
 <p>
