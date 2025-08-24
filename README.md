@@ -23,7 +23,7 @@
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
 <p>📜 Currently Discovering: <b>Java/Spring Boot</b> and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
-<p>☕ Belief: Code should be maintainable, scalable, and meaningful</p>
+<p>☕ Belief: Code should be maintainable, scalable, meaningful and fun</p>
 
 <h2>Other Paths I Walk</h2>
 <p>🐈 Companion of three cats</p>
