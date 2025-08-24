@@ -1,10 +1,10 @@
-<h1>🧪 Greetings, Fellow Alchemist! I'm Rafael</h1>
-<h2>Shall we transmute ideas into living code with Elixir?</h2>
+<h1>☕ Greetings, Fellow Developer! I'm Rafael</h1>
+<h2>Shall we grind some coffee beans ?</h2>
 
 <p>
-  In this vast landscape of code and logic, I walk the path of <b>Elixir</b>, weaving concurrent processes as if they were countless little flames dancing in harmony.  
-  With <b>Phoenix</b>, ideas take flight and rise resilient, like the mythic bird reborn from fire.  
-  Reach out through LinkedIn or message, to share your wisdom or to build together.
+  In this vast landscape of code and logic, I walk the path of <b>Java</b>, crafting backends and APIs that keep the digital world running.  
+  With <b>Spring Boot</b>, I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
+  Reach out on LinkedIn to share knowledge or collaborate on something meaningful.
 </p>
 
 <p>
@@ -13,17 +13,17 @@
 
 <br/>
 <div align="center">
-  <img alt="Resting around the fire" src="https://i.pinimg.com/originals/4f/54/ac/4f54ac7e22eeca9cc89f14c99f783425.gif" />
+  <img alt="Coffee and Code" src="https://i.pinimg.com/originals/4f/54/ac/4f54ac7e22eeca9cc89f14c99f783425.gif" />
 </div>
 
 <hr/>
 
-<h2>About the Human Behind the Craft</h2>
+<h2>About the Human Behind the Code</h2>
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: <b>Elixir/Phoenix/LiveView</b> and C++</p>
+<p>📜 Currently Discovering: <b>Java/Spring Boot</b> and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
-<p>🧪 Belief: Code should be concurrent, fault-tolerant, and beautiful</p>
+<p>☕ Belief: Code should be maintainable, scalable, and meaningful</p>
 
 <h2>Other Paths I Walk</h2>
 <p>🐈 Companion of three cats</p>
@@ -49,5 +49,5 @@
 <hr/>
 
 <p align="center">
-  <em>"Like processes in the BEAM, I thrive in collaboration, each journey stronger when shared."</em>
+  <em>"Like threads in a JVM, I thrive in collaboration — each journey stronger when shared."</em>
 </p>
