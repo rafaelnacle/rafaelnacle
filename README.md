@@ -2,8 +2,8 @@
 <h2>Come closer and take a sit!</h2>
 
 <p>
-  In this vast landscape of code and logic, I walk the path of <b>Java</b>, crafting backends and APIs that keep the digital world running.  
-  With <b>Spring Boot</b>, I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
+  In this vast landscape of code and logic, I walk the path of <b>Go</b>, crafting backends and APIs that keep the digital world running.  
+  I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
   Reach out on LinkedIn to share knowledge or collaborate on something meaningful.🐈‍⬛
 </p>
 
@@ -13,7 +13,7 @@
 
 <br/>
 <div align="center">
-  <img alt="Coffee and Code" src="https://i.pinimg.com/originals/4f/54/ac/4f54ac7e22eeca9cc89f14c99f783425.gif" />
+  <img alt="Rest under nice roof" src="https://i.pinimg.com/originals/4f/54/ac/4f54ac7e22eeca9cc89f14c99f783425.gif" />
 </div>
 
 <hr/>
@@ -23,7 +23,7 @@
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
 <p>📜 Currently Discovering: <b>Go</b> and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
-<p>☕ Belief: Code should be maintainable, scalable, meaningful and fun</p>
+<p>🐦‍⬛ Belief: Code should be maintainable, scalable, meaningful and fun</p>
 
 <h2>Other Paths I Walk</h2>
 <p>🐈 Companion of three cats</p>
