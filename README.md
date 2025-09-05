@@ -1,10 +1,10 @@
-<h1>☕ Greetings, Fellow Developer! I'm Rafael</h1>
-<h2>Shall we grind some coffee beans ?</h2>
+<h1>🐈‍⬛ Greetings, Fellow Developer! I'm Rafael</h1>
+<h2>Come closer and take a sit!</h2>
 
 <p>
   In this vast landscape of code and logic, I walk the path of <b>Java</b>, crafting backends and APIs that keep the digital world running.  
   With <b>Spring Boot</b>, I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
-  Reach out on LinkedIn to share knowledge or collaborate on something meaningful.
+  Reach out on LinkedIn to share knowledge or collaborate on something meaningful.🐈‍⬛
 </p>
 
 <p>
@@ -21,7 +21,7 @@
 <h2>About the Human Behind the Code</h2>
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: <b>Java/Spring Boot</b> and C++</p>
+<p>📜 Currently Discovering: <b>Go</b> and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 <p>☕ Belief: Code should be maintainable, scalable, meaningful and fun</p>
 
