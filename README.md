@@ -2,7 +2,7 @@
 <h2>Come closer and take a sit!</h2>
 
 <p>
-  In this vast landscape of code and logic, I walk the path of <b>Java</b>, crafting backends and APIs that keep the digital world running.  
+  In this vast landscape of code and logic, I walk the path of <b>.NET/C#</b>, crafting backends and API's  
   I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
   Reach out on LinkedIn to share knowledge or collaborate on something meaningful.🐈‍⬛
 </p>
@@ -21,7 +21,7 @@
 <h2>About the Human Behind the Code</h2>
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: <b>Java/Spring</b> and C++</p>
+<p>📜 Currently Discovering: <b>C#/.NET</b> and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 <p>🐦‍⬛ Belief: Code should be maintainable, scalable, meaningful and fun</p>
 
@@ -49,5 +49,5 @@
 <hr/>
 
 <p align="center">
-  <em>"Like threads in a JVM, I thrive in collaboration — each journey stronger when shared."</em>
+  <em>"Like threads, I thrive in collaboration — each journey stronger when shared."</em>
 </p>
