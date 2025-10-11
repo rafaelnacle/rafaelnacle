@@ -1,10 +1,10 @@
-<h1>🐈‍⬛ Greetings, Fellow Developer! I'm Rafael</h1>
+<h1>🐈 Greetings, Fellow Developer! I'm Rafael</h1>
 <h2>Come closer and take a sit!</h2>
 
 <p>
-  In this vast landscape of code and logic, I walk the path of <b>.NET/C#</b>, crafting backends and API's  
+  In this vast landscape of code and logic, I walk the path of <b>Node.js</b>, crafting backends and API's  
   I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
-  Reach out on LinkedIn to share knowledge or collaborate on something meaningful.🐈‍⬛
+  Reach out on LinkedIn to share knowledge or collaborate on something meaningful.
 </p>
 
 <p>
@@ -21,9 +21,9 @@
 <h2>About the Human Behind the Code</h2>
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: <b>C#/.NET</b> and C++</p>
+<p>📜 Currently Discovering: <b>Node.js</b> and C++</p>
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
-<p>🐦‍⬛ Belief: Code should be maintainable, scalable, meaningful and fun</p>
+<p>🍫 Belief: Coding should be fun</p>
 
 <h2>Other Paths I Walk</h2>
 <p>🐈 Companion of three cats</p>
@@ -49,5 +49,5 @@
 <hr/>
 
 <p align="center">
-  <em>"Like threads, I thrive in collaboration — each journey stronger when shared."</em>
+  <em>"Like threads (maybe just one thread?), I thrive in collaboration — each journey stronger when shared."</em>
 </p>
