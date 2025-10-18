@@ -2,8 +2,8 @@
 <h2>Come closer and take a sit!</h2>
 
 <p>
-  In this vast landscape of code and logic, I walk the path of <b>C#/.NET and Javascript</b>, crafting backends and API's  
-  I bring some ideas to life with, while <b>C++</b> sharpens my understanding of systems and performance.  
+  In this vast landscape of code and logic, crafting backends and API's  
+  I bring some ideas to life that sharpens my understanding of systems and programming.
   Reach out on LinkedIn to share knowledge or collaborate on something meaningful.
 </p>
 
@@ -21,7 +21,7 @@
 <h2>About the Human Behind the Code</h2>
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: <b>C#/.NET</b>, Javascript and C++</p>
+<p>📜 Currently Discovering: A lot of things
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 <p>🍫 Belief: Coding should be fun</p>
 
