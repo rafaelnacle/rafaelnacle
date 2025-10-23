@@ -3,7 +3,7 @@
 
 <p>
   In this vast landscape of code and logic, I build robust backends and APIs with <b>Go</b>,  
-  bring ideas to life through <b>JavaScript & React</b>, and explore <b>C++</b> to deepen my understanding of systems and low-level programming.  
+  bring ideas to life and explore <b>C++</b> to deepen my understanding of systems and low-level programming.  
   Let’s connect on LinkedIn to exchange ideas or collaborate on something meaningful.
 </p>
 
@@ -21,7 +21,7 @@
 <h2>About the Human Behind the Code</h2>
 <p>🕯️ Age: 33 years experienced</p>
 <p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: Go, JavaScript/Typescript, Node.js, React and a bit of C++
+<p>📜 Currently Discovering: Go and a bit of C++
 <p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
 <p>🍫 Belief: Coding should be fun</p>
 
