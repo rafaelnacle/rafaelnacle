@@ -2,9 +2,9 @@
 <h2>Come closer and take a sit!</h2>
 
 <p>
-  In this vast landscape of code and logic, I build robust backends and APIs with <b>Go</b>,  
-  bring ideas to life and explore <b>C++</b> to deepen my understanding of systems and low-level programming.  
-  Let’s connect on LinkedIn to exchange ideas or collaborate on something meaningful.
+  In this vast landscape of code and logic, I build reliable backends and APIs with <b>Go</b>,  
+  and explore <b>C++</b> to strengthen my understanding of systems and low-level programming.  
+  Always curious about how things work beneath the surface, let’s connect on <a href="https://www.linkedin.com/in/rafaelnacle/">LinkedIn</a> to share ideas or collaborate on something meaningful.
 </p>
 
 <p>
