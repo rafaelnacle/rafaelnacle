@@ -1,53 +1,47 @@
-<h1>🐈 Greetings, Fellow Developer! I'm Rafael</h1>
-<h2>Come closer and take a sit!</h2>
+# Rafael Nacle
 
-<p>
-  In this vast landscape of code and logic, I build reliable backends and APIs with <b>Go</b>,  
-  and explore <b>C++</b> to strengthen my understanding of systems and low-level programming.  
-  Always curious about how things work beneath the surface, let’s connect on <a href="https://www.linkedin.com/in/rafaelnacle/">LinkedIn</a> to share ideas or collaborate on something meaningful.
-</p>
+**Fullstack Developer | Node.js • TypeScript • React**
 
-<p>
-  May your path through the realms of programming be insightful and rewarding. Scroll onward, and you shall glimpse an image and some truths about me.
-</p>
+Fullstack developer who believes code should be elegant AND functional.  
+Currently building things with Node.js and React.
 
-<br/>
-<div align="center">
-  <img alt="Rest under nice roof" src="https://i.pinimg.com/originals/4f/54/ac/4f54ac7e22eeca9cc89f14c99f783425.gif" />
-</div>
+When not coding: cats 🐈, music 🎸, and coffee ☕
 
-<hr/>
+📍 Cianorte, PR - Brazil  
+🔗 [LinkedIn](https://www.linkedin.com/in/rafaelnacle/)
 
-<h2>About the Human Behind the Code</h2>
-<p>🕯️ Age: 33 years experienced</p>
-<p>📍 Location: Cianorte - Paraná, Brazil</p>
-<p>📜 Currently Discovering: Go and a bit of C++
-<p>🎓 Studies: Associate degree in Analysis and Software Development - UMFG</p>
-<p>🍫 Belief: Coding should be fun</p>
+---
 
-<h2>Other Paths I Walk</h2>
-<p>🐈 Companion of three cats</p>
-<p>🎸 Sometimes making music, though my craft rests for now</p>
-<p>💻 Programming since 2019: From curious beginner to steady learner</p>
-<p>👧🏻 Soon welcoming a new journey: Becoming a parent</p>
+## 🛠️ Tech Stack
 
-<hr/>
+**Backend:**
+- Node.js, TypeScript, NestJS
+- Express, Prisma ORM
+- PostgreSQL, RESTful APIs
 
-<div>
-  <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&theme=tokyonight&hide=html,css,scss,makefile,CMake" />
-</div>
+**Frontend:**
+- React, Next.js, TypeScript
+- Tailwind CSS
 
-<hr/>
+**Tools:**
+- Docker, Git/GitHub
+- Linux, VS Code
 
-<div style="display: inline_block;">
-  <h3>📜 Connect with me on LinkedIn:</h3>
-  <a href="https://www.linkedin.com/in/rafaelnacle/">
-    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
-  </a>
-</div>
+---
 
-<hr/>
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=compact&theme=dark)
+
+---
+
+## 📫 Get in Touch
+
+Open to opportunities and collaborations.  
+Let's connect on [LinkedIn](https://www.linkedin.com/in/rafaelnacle/)
+
+---
 
 <p align="center">
-  <em>"Like threads, I thrive in collaboration — each journey stronger when shared."</em>
+  <em>"Code with purpose, build with care."</em>
 </p>
