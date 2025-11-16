@@ -5,7 +5,7 @@
 Fullstack developer who believes code should be elegant AND functional.  
 Currently building things with Node.js and React.
 
-When not coding: cats 🐈, music 🎸, and coffee ☕
+When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
 
 📍 Cianorte, PR - Brazil  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelnacle/)
