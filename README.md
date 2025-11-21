@@ -16,17 +16,13 @@ When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
 
 **Backend:**
 - Node.js, TypeScript, NestJS
-- Express, Prisma ORM
-- PostgreSQL, RESTful APIs
 
 **Frontend:**
 - React, Next.js, TypeScript
-- Tailwind CSS
 
 **Tools:**
 - Docker, Git/GitHub
-- Linux, VS Code
-
+  
 ---
 
 ## 📊 GitHub Stats
