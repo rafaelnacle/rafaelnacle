@@ -4,8 +4,7 @@
 
 When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
 
-📍 Cianorte, PR - Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/rafaelnacle/)
+📍 Cianorte, PR - Brazil
 
 ---
 
