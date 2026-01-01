@@ -1,6 +1,6 @@
 # Rafael Nacle
 
-**Developer | .NET/C# | C++ (sometimes ;D)**
+**Developer | .NET/C# |**
 
 When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
 
