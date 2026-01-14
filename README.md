@@ -1,6 +1,6 @@
 # Rafael Nacle
 
-**Developer | .NET/C# |**
+**Developer | Elixir/Phoenix |**
 
 When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
 
