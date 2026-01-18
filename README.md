@@ -1,6 +1,6 @@
 # Rafael Nacle
 
-**Developer | Elixir/Phoenix |**
+**Aspiring Game Developer**
 
 When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
 
