@@ -2,7 +2,7 @@
 
 **Aspiring Game Developer**
 
-When not coding: family 👪, cats 🐈, music 🎸, and coffee ☕
+When not coding: family 👪, cats 🐈, music 🎸, and gaming 👾
 
 📍 Cianorte, PR - Brazil
 
