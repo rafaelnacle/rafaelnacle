@@ -1,6 +1,6 @@
 # Rafael Nacle
 
-**Aspiring Game Developer**
+**Developer | Go**
 
 When not coding: family 👪, cats 🐈, music 🎸, and gaming 👾
 
