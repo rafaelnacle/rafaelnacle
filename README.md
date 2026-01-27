@@ -1,6 +1,6 @@
 # Rafael Nacle
 
-**Developer | Go**
+**Developer**
 
 When not coding: family 👪, cats 🐈, music 🎸, and gaming 👾
 
