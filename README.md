@@ -1,6 +1,6 @@
 # Rafael Nacle
 
-**Developer**
+**Cybersec Student**
 
 When not coding: family 👪, cats 🐈, music 🎸, and gaming 👾
 
