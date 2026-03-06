@@ -11,7 +11,7 @@
 
 **every day** — turning brain power into code
 
-**hobbies** — family 👪, cats 🐈, games 👾
+**life** — family 👪, cats 🐈, games 👾
 
 ---
 
