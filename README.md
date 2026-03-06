@@ -13,6 +13,8 @@
 
 **life** — family 👪, cats 🐈, games 👾
 
+open to opportunities & collabs → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
+
 ---
 
 ```
@@ -35,7 +37,4 @@ $ whoami
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelnacle&theme=tokyo-night&hide_border=true&area=true)
 
 ---
-
-open to opportunities & collabs → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
-
 ![Profile views](https://komarev.com/ghpvc/?username=rafaelnacle&color=blueviolet&style=flat-square&label=visitors)
