@@ -1,26 +1,41 @@
-# Rafael Nacle
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   rafael nacle                                          │
+│   fullstack developer | cybersec student                │
+│                                                         │
+│   node.js · react · next.js · typescript                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-**Cybersec Student**
+**every day** — turning brain power into code
 
-When not coding: family 👪, cats 🐈, music 🎸, and gaming 👾
-
-📍 Cianorte, PR - Brazil
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=compact&theme=dark)
-
----
-
-## 📫 Get in Touch
-
-Open to opportunities and collaborations.  
-Let's connect on [LinkedIn](https://www.linkedin.com/in/rafaelnacle/)
+**hobbies** — family 👪, cats 🐈, games 👾
 
 ---
 
-<p align="center">
-  <em>"Code with purpose, build with care."</em>
-</p>
+```
+$ whoami
+> someone who cares too much about everything
+```
+
+---
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=rafaelnacle&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 📈 contribution graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelnacle&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+open to opportunities & collabs → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
+
+![Profile views](https://komarev.com/ghpvc/?username=rafaelnacle&color=blueviolet&style=flat-square&label=visitors)
