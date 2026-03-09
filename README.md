@@ -2,9 +2,9 @@
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   rafael nacle                                          │
-│   fullstack developer | cybersec student                │
+│   backend developer
 │                                                         │
-│   node.js · react · next.js · typescript                │
+│   node.js · typescript                │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
