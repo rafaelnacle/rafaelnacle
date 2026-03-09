@@ -4,7 +4,7 @@
 │   rafael nacle                                          │
 │   backend developer
 │                                                         │
-│   node.js · typescript                │
+│   node.js · typescript
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
