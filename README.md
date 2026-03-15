@@ -2,9 +2,9 @@
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   rafael nacle                                          │
-│   backend developer
+│   Game Developer
 │                                                         │
-│   node.js · typescript
+│   Unreal | C++ | SFML
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
