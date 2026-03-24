@@ -20,7 +20,6 @@ open to opportunities → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
 ```
 $ whoami
 > someone who cares too much about everything
-> i'm learning C(again) to be a better dev
 > i love you
 ```
 
