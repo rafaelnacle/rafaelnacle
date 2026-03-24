@@ -1,11 +1,10 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   Rafael Nacle                                          │
-│   Software Developer | Node.js | Typescript             |
-|                                                         |
-|   I'm also a C enthusiast                               |
+│   Rafael Nacle                                          |
+│   Backend Developer                                     |
 │                                                         │
+│   Software Developer | Node.js | Typescript             |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -21,6 +20,8 @@ open to opportunities → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
 ```
 $ whoami
 > someone who cares too much about everything
+> i'm learning C(again) to be a better dev
+> i love you
 ```
 
 ---
