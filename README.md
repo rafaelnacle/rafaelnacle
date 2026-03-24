@@ -39,3 +39,6 @@ $ whoami
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=rafaelnacle&color=blueviolet&style=flat-square&label=visitors)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&theme=tokyonight)
