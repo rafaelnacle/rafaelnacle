@@ -1,10 +1,11 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   rafael nacle                                          │
-│   Developer
+│   Rafael Nacle                                          │
+│   Software Developer | Node.js | Typescript             |
+|                                                         |
+|   I'm also a C enthusiast                              |
 │                                                         │
-│   :D
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -13,7 +14,7 @@
 
 **life** — family 👪, cats 🐈, games 👾
 
-open to opportunities & collabs → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
+open to opportunities → [linkedin](https://www.linkedin.com/in/rafaelnacle/)
 
 ---
 
