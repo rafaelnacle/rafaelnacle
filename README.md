@@ -4,7 +4,7 @@
 │   Rafael Nacle                                          │
 │   Software Developer | Node.js | Typescript             |
 |                                                         |
-|   I'm also a C enthusiast                              |
+|   I'm also a C enthusiast                               |
 │                                                         │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
