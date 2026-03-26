@@ -4,7 +4,8 @@
 │   Rafael Nacle                                          |
 │   Backend Developer                                     |
 │                                                         │
-│   Software Developer | Node.js | Typescript             |
+│   Software Developer | Elixir | Phoenix                 |
+|   Zig Enthusiat                                         |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
