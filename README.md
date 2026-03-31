@@ -5,7 +5,7 @@
 │   Backend Developer                                     |
 │                                                         │
 │   Software Developer | Elixir | Phoenix                 |
-|   Zig Enthusiat                                         |
+|   Rust Enthusiat                                        |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
