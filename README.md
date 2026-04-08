@@ -4,8 +4,8 @@
 │   Rafael Nacle                                          |
 │   Backend Developer                                     |
 │                                                         │
-│   Software Developer | Elixir | Phoenix                 |
-|   Rust Enthusiast                                        |
+│   Software Developer | PHP | Laravel                    |
+|   Rust Enthusiast                                       |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
