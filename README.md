@@ -5,7 +5,7 @@
 │   Backend Developer                                     |
 │                                                         │
 │   Software Developer | PHP | Laravel                    |
-|   Rust Enthusiast                                       |
+|   C Enthusiast                                          |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
