@@ -4,8 +4,8 @@
 │   Rafael Nacle                                          |
 │   Backend Developer                                     |
 │                                                         │
-│   Software Developer | PHP | Laravel                    |
-|   C Enthusiast                                          |
+│   Software Developer | Python                           |
+|   C & Rust Enthusiast                                   |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
