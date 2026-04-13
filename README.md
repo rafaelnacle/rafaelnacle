@@ -1,5 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelnacle/)
-
 ```ansi
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
@@ -24,6 +22,7 @@ $ echo $STATUS
 ```
 
 **every day** — turning brain power into code
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelnacle/)
 ---
 
 ### 📊 stats
