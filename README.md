@@ -5,7 +5,7 @@
 │   Backend Developer                                     |
 │                                                         │
 │   Software Developer | Python                           |
-|   C & Rust Enthusiast                                   |
+|   Rust Enthusiast                                       |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
