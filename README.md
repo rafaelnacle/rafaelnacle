@@ -2,9 +2,8 @@
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   Rafael Nacle                                          |
-│   Backend Developer                                     |
+│   Backend Developer | Python | Django                   |
 │                                                         │
-│   Software Developer | Python                           |
 |   Rust Enthusiast                                       |
 │                                                         │
 └─────────────────────────────────────────────────────────┘
