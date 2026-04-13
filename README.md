@@ -24,8 +24,6 @@ $ echo $STATUS
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelnacle/)
 ---
 
-### 📊 stats
-
 <div align="center">
 
 ![Streak](https://streak-stats.demolab.com?user=rafaelnacle&theme=tokyonight&hide_border=true)
