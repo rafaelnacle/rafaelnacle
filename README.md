@@ -1,16 +1,14 @@
-```ansi
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Rafael Nacle                                          │
-│   Backend Developer · Java · Spring Boot                │
-│   Rust Enthusiast                                       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
 
 ```bash
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   Rafael Nacle                                     │
+│   Backend Developer · Java · Spring Boot           │
+│   Rust Enthusiast                                  │
+│                                                    │
+└────────────────────────────────────────────────────┘
 $ whoami
-> someone who cares too much about everything
+> someone who cares too much
 > husband, father, dev — in no particular order 🐈
 
 $ cat interests.txt
