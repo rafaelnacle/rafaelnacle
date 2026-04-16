@@ -12,7 +12,7 @@ $ whoami
 > husband, father, dev — in no particular order 🐈
 
 $ cat interests.txt
-> java · spring boot · rust · electronic music
+> coding · electronic music
 > family 👪 · cats 🐈 · games 👾
 
 $ echo $STATUS
