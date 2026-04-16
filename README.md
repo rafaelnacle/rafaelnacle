@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Backend Developer · Go                           │
+│   Backend Developer · Java | Spring                │
 │   Rust Enthusiast                                  │
 │                                                    │
 └────────────────────────────────────────────────────┘
