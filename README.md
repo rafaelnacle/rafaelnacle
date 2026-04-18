@@ -4,7 +4,7 @@
 │                                                    │
 │   Rafael Nacle                                     │
 │   Backend Developer · Java | Spring                │
-│   Rust Enthusiast                                  │
+│   C++ Enthusiast                                   │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
