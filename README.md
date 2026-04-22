@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Backend Developer · Java | Spring                │
+│   Backend Developer · C# | .NET                    │
 │   C++ Enthusiast                                   │
 │                                                    │
 └────────────────────────────────────────────────────┘
