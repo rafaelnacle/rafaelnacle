@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Backend Developer · C# · .NET                    │
+│   Developer migrating to Data Engineering          │
 │   C++ Enthusiast                                   │
 │                                                    │
 └────────────────────────────────────────────────────┘
