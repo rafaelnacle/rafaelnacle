@@ -4,7 +4,6 @@
 │                                                    │
 │   Rafael Nacle                                     │
 │   Developer migrating to Data Engineering          │
-│   C++ Enthusiast                                   │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
