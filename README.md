@@ -3,7 +3,8 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Developer migrating to Data Engineering          │
+│   Front-end Developer                              │
+│   Javascript | Typescript | React | Next.js        │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
