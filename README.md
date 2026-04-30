@@ -3,8 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Front-end Developer                              │
-│   Javascript | Typescript | React | Next.js        │
+│   Developer                                        │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
