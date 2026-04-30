@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Software Developer | Elixir | Phoenix            │
+│   Software Developer | Golang                      │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
