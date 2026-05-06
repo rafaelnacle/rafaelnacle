@@ -3,7 +3,8 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Software Developer | Golang                      │
+│   Software Developer                               │
+│   Learning Rust                                    │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
