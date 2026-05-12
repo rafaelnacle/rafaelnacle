@@ -3,8 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Software Developer                               │
-│   Learning Rust                                    │
+│   Software Developer | React Native                │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
