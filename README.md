@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Mobile Developer | React Native                  │
+│   Mobile Developer                                 │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
