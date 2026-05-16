@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Mobile Developer                                 │
+│   Mobile Developer | Kotlin | Android              │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
