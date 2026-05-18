@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Android Developer | Kotlin                       │
+│   Software Developer | Zig                         │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
