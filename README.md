@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Backend Developer | .NET/C#                      │
+│   Mobile Developer • Android • Kotlin              │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
