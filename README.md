@@ -3,7 +3,7 @@
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │   Rafael Nacle                                     │
-│   Developer • Rust                                 │
+│   Developer • Elixir • Phoenix • LiveView          │
 │                                                    │
 └────────────────────────────────────────────────────┘
 $ whoami
