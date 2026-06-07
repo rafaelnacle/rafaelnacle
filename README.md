@@ -2,7 +2,7 @@
 
   <img width="100%" alt="Image from pixeljeff on DeviantArt" src="https://github.com/user-attachments/assets/30eaeec0-cba4-4f39-8cde-add2b08580eb" />
 
-  <h1>👋 Hello and welcome!</h1>
+  <h1>coffee → code → repeat.</h1>
 
   <p><strong>every day</strong> turning coffee into Java</p>
 
