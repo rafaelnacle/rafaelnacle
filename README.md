@@ -4,7 +4,7 @@
 
   <h1>👋 Hello and welcome!</h1>
 
-  <p><strong>every day</strong> — turning coffee into Java</p>
+  <p><strong>every day</strong> turning coffee into Java</p>
 
   <hr/>
 
