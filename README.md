@@ -28,7 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
 
   <br/>
-
+  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=rafaelnacle&color=fe428e&style=for-the-badge&label=visitors&abbreviated=true" alt="Profile views" />
 
 </div>
