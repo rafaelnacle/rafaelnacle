@@ -4,7 +4,7 @@
 
   <h1>coffee → code → repeat.</h1>
 
-  <p><strong>every day</strong> turning coffee into Java</p>
+  <p><strong>every day</strong> turning coffee into brain power</p>
 
   <hr/>
 
