@@ -12,7 +12,7 @@
 
   <p>
     Front-end background with <strong>Vue.js</strong> and <strong>TypeScript</strong>, full-stack experience with <strong>PHP/Laravel</strong>, and a stint with <strong>Go + WebAssembly</strong> for DOM manipulation.<br/><br/>
-    Currently going deep on <strong>React</strong> and <strong>Typescript</strong> - front-end is where my focus lives right now.
+    Currently going deep on <strong>Elixir</strong> and <strong>Phoenix</strong> - here is where my focus lives right now.
   </p>
 
   <a href="https://www.linkedin.com/in/rafaelnacle/">
