@@ -12,7 +12,7 @@
 
   <p>
     Front-end background with <strong>Vue.js</strong> and <strong>TypeScript</strong>, full-stack experience with <strong>PHP/Laravel</strong>, and a stint with <strong>Go + WebAssembly</strong> for DOM manipulation.<br/><br/>
-    Currently going deep on <strong>Backend</strong> development with <strong>Python</strong> - here is where my focus lives right now.
+    Currently going deep on <strong>Backend</strong> development with <strong>.NET/C#</strong> - here is where my focus lives right now.
   </p>
 
   <a href="https://www.linkedin.com/in/rafaelnacle/">
