@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" alt="Image from pixeljeff on DeviantArt" src="https://github.com/user-attachments/assets/30eaeec0-cba4-4f39-8cde-add2b08580eb" />
+  <img width="100%" alt="Image from 1TZAH on DeviantArt" src="https://github.com/user-attachments/assets/8d3d233f-beaf-4345-8c15-62e178dc74d9" />
 
   <h1>coffee → code → repeat.</h1>
 
