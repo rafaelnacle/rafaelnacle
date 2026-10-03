@@ -23,7 +23,7 @@
 
   <img width="100%" src="https://streak-stats.demolab.com?user=rafaelnacle&theme=radical&hide_border=true&card_width=900" alt="GitHub Streak" />
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelnacle&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelnacle&theme=radical&hide_border=true&area=true" alt="Activity Graph" /> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnacle&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
 
